@@ -6,7 +6,7 @@
   "author": "ginlink <ginlink1998@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "node my-webpack"
+    "build": "node my-webpack"
   },
   "devDependencies": {
     "@babel/core": "^7.18.10",
