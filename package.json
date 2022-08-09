@@ -1,0 +1,17 @@
+{
+  "name": "@ginlink/my-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ginlink/my-webpack.git",
+  "author": "ginlink <ginlink1998@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node my-webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/parser": "^7.18.11",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/traverse": "^7.18.11"
+  }
+}
